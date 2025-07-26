@@ -1,0 +1,27 @@
+month,customer_type,customer_count,percentage
+July 2024,Repeat Customer,100,87.72
+July 2024,One-Time Customer,14,12.28
+August 2024,Repeat Customer,103,78.03
+August 2024,One-Time Customer,29,21.97
+September 2024,Repeat Customer,145,79.67
+September 2024,One-Time Customer,37,20.33
+October 2024,Repeat Customer,100,75.19
+October 2024,One-Time Customer,33,24.81
+November 2024,Repeat Customer,106,75.18
+November 2024,One-Time Customer,35,24.82
+December 2024,Repeat Customer,109,78.99
+December 2024,One-Time Customer,29,21.01
+January 2025,Repeat Customer,123,84.25
+January 2025,One-Time Customer,23,15.75
+February 2025,Repeat Customer,51,78.46
+February 2025,One-Time Customer,14,21.54
+March 2025,Repeat Customer,58,63.74
+March 2025,One-Time Customer,33,36.26
+April 2025,Repeat Customer,57,74.03
+April 2025,One-Time Customer,20,25.97
+May 2025,Repeat Customer,68,85.0
+May 2025,One-Time Customer,12,15.0
+June 2025,Repeat Customer,57,75.0
+June 2025,One-Time Customer,19,25.0
+July 2025,Repeat Customer,58,63.74
+July 2025,One-Time Customer,33,36.26
